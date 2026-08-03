@@ -1,36 +1,51 @@
-# 🎮 Web Game Project (ภารกิจ 4)
+<div align="center">
 
-วิชา Game Development
+  # 🎮 ภารกิจ 4: Web Game Platfomer
 
----
 
-## 👤 ผู้พัฒนา
+  <p>
+    <a href="https://nithiwatwork.github.io/Game/">
+      <img src="https://img.shields.io/badge/PLAY_NOW-Click_Here-brightgreen?style=for-the-badge&logo=gamepad" alt="Play Game">
+    </a>
+  </p>
 
-* **ชื่อ-นามสกุล:** นายนิธิวัฒน์ บ่อคุ้ม
-* **รหัสนักศึกษา:** 673380631-9
-
----
-
-## 🕹️ เข้าเล่นเกม
-
-สามารถเข้าเล่นเกมผ่าน GitHub Pages ได้ที่ลิงก์ด้านล่างนี้:
-
-👉 **[คลิกที่นี่เพื่อเข้าเล่นเกม ภารกิจ 4](https://nithiwatwork.github.io/Game/)**
+</div>
 
 ---
 
-## 📸 ภาพตัวอย่างภายในเกม (Screenshots)
+## 👤 ข้อมูลผู้พัฒนา (Developer Info)
 
-<p align="center">
-  <img src="docs/img/showmenu.png" alt="หน้าเมนูหลัก" width="400" style="margin-right: 10px;" />
-  <img src="docs/img/ingame.png" alt="ภาพขณะเล่นเกม" width="400" />
-</p>
-
-<p align="center">
-  <i>หน้าเมนูหลัก (ซ้าย) และบรรยากาศภายในเกม (ขวา)</i>
-</p>
+| รายการ | รายละเอียด |
+| :--- | :--- |
+| **ชื่อ-นามสกุล** | นายนิธิวัฒน์ บ่อคุ้ม |
+| **รหัสนักศึกษา** | 673380631-9 |
+| **ลิงก์เล่นเกม** | 🌐 [nithiwatwork.github.io/Game](https://nithiwatwork.github.io/Game/) |
 
 ---
 
-## 📌 หมายเหตุการตั้งค่ารูปภาพ
-หากนำไปใช้ใน GitHub Markdown แนะนำให้ใช้ Path `docs/img/filename.png` พร้อมเครื่องหมาย `/` เพื่อให้แสดงผลได้ถูกต้องทั้งบน GitHub และ GitHub Pages
+## 🖼️ ตัวอย่างภายในเกม (Game Screenshots)
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <b>📋 หน้าเมนูหลัก (Main Menu)</b><br><br>
+      <img src="docs/img/showmenu.png" alt="Show Menu" width="100%">
+    </td>
+    <td align="center" width="50%">
+      <b>🕹️ บรรยากาศขณะเล่นเกม (In-Game)</b><br><br>
+      <img src="docs/img/ingame.png" alt="In Game" width="100%">
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🚀 วิธีการเข้าใช้งาน (How to Play)
+
+1. คลิกที่ปุ่ม **PLAY NOW** ด้านบน หรือเข้าผ่านลิงก์ [https://nithiwatwork.github.io/Game/](https://nithiwatwork.github.io/Game/)
+2. เล่นผ่าน Web Browser ได้ทันทีโดยไม่ต้องติดตั้งโปรแกรมเพิ่มเติม
+
+---
+<div align="center">
+  <sub>Developed as part of the Game Development Course</sub>
+</div>
