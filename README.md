@@ -15,7 +15,7 @@
 
 ## 👤 ข้อมูลผู้พัฒนา (Developer Info)
 
-| :--- | :--- |
+
 | **ชื่อ-นามสกุล** | นายนิธิวัฒน์ บ่อคุ้ม |
 | **รหัสนักศึกษา** | 673380631-9 |
 | **ลิงก์เล่นเกม** | 🌐 [nithiwatwork.github.io/Game](https://nithiwatwork.github.io/Game/) |
