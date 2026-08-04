@@ -1,8 +1,5 @@
 <div align="center">
 
-  # 🎮 ภารกิจ 4: Web Game Platfomer
-
-
   <p>
     <a href="https://nithiwatwork.github.io/Game/">
       <img src="https://img.shields.io/badge/PLAY_NOW-Click_Here-brightgreen?style=for-the-badge&logo=gamepad" alt="Play Game">
@@ -11,17 +8,6 @@
 
 </div>
 
----
-
-## 👤 
-
-| รายการ | รายละเอียด |
-| :--- | :--- |
-| **ชื่อ-นามสกุล** | นายนิธิวัฒน์ บ่อคุ้ม |
-| **รหัสนักศึกษา** | 673380631-9 |
-| **ลิงก์เล่นเกม** | 🌐 [nithiwatwork.github.io/Game](https://nithiwatwork.github.io/Game/) |
-
----
 
 ## 🖼️ ตัวอย่างภายในเกม (Game Screenshots)
 
